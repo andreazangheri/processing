@@ -1,0 +1,465 @@
+TITOLO,ANNO,REGISTA,NUMERO,VOTO,IMDB,ROTTEN TOMATOES,MEDIA ,DIFFERENZA
+300,2007,Zack Snyder,0,2,4,3,"3,5","1,5"
+...E ora parliamo di Kevin,2011,Lynne Ramsay,0,4,4,4,4,0
+17 ragazze,2011,"Delphine Coulin, Muriel Coulin, Delphine and Muriel Coulin",-0.7,1,3,3,3,2
+21 grammi - Il peso dell'anima,2003,Alejandro González Iñárritu,27,3,4,4,4,1
+28 giorni dopo,2002,Danny Boyle,31,2,4,4,4,2
+45 anni,2015,Andrew Haigh,0,4,4,4,4,0
+8 donne e un mistero,2002,François Ozon,24,4,4,3,"3,5","0,5"
+8 e mezzo,1963,Federico Fellini,0,4,4,4,4,0
+A proposito di Schmidt,2002,Alexander Payne,35,3,4,4,4,1
+A qualcuno piace caldo,1959,Billy Wilder,0,3,4,4,4,1
+A.I. - Intelligenza artificiale,2001,Steven Spielberg,16,4,4,3,"3,5","0,5"
+Across the universe,2007,Julie Taymor,-0.3,3,4,3,"3,5","0,5"
+Agorà,2009,Alejandro Amenábar,0,3,4,3,"3,5","0,5"
+Albert Nobbs,2012,Rodrigo García,0,3,3,3,3,0
+Alice in Wonderland,2010,Tim Burton,15,1,3,3,3,2
+Amabili resti,2009,Peter Jackson,0.5,2,3,2,"2,5","0,5"
+American beauty,1999,Sam Mendes,19,5,4,4,4,1
+American history X,1998,Tony Kaye,0,3,4,4,4,1
+American hustle,2013,David O. Russell,0,1,4,4,4,3
+American psycho,2001,Mary Harron,0,3,4,3,"3,5","0,5"
+Amistad,1997,Steven Spielberg,16,3,4,3,"3,5","0,5"
+Amour,2012,Michael Haneke,0.2,4,4,4,4,0
+Angel-A,2005,Luc Besson,0,3,4,3,"3,5","0,5"
+Animali fantastici e dove trovarli,2016,David Yates,32,2,4,3,"3,5","1,5"
+Animali notturni,2016,Tom Ford,0,2,4,3,"3,5","1,5"
+Anonymus,2011,Roland Emmerich,0.2,9,3,3,3,6
+Antichrist,2009,Lars von Trier,5,4,3,3,3,1
+Apocalypto,2006,Mel Gibson,0,3,4,3,"3,5","0,5"
+Arancia meccanica,1971,Stanley Kubrick,12,5,4,4,4,1
+Arrival,2016,Denis Villeneuve,0.1,3,4,4,4,1
+Arsenico e vecchi merletti,1942,Frank Capra,0,3,4,4,4,1
+Assolo,2016,Laura Morante,0.1,1,3,0,"1,5","0,5"
+Asterix e Obelix contro Cesare,1999,Claude Zidi,0,3,3,0,"1,5","1,5"
+Attrazione fatale,1987,Adrian Lyne,-0.5,3,3,3,3,0
+"Ave, Cesare!",2016,"Ethan Coen, Joel Coen",0.3,1,3,4,"3,5","2,5"
+Baarìa,2009,Giuseppe Tornatore,11,3,3,3,3,0
+Babel,2006,Alejandro González Iñárritu,27,5,4,3,"3,5","1,5"
+Baciami ancora,2010,Gabriele Muccino,0.3,4,3,0,"1,5","2,5"
+Bambole russe,2005,Cédric Klapisch,0.2,3,3,3,3,0
+Bara con vista,2002,Nick Hurran,0,4,3,2,"2,5","1,5"
+Basta che funzioni,2009,Woody Allen,10,2,4,3,"3,5","1,5"
+Bastardi senza gloria,2009,Quentin Tarantino,8,4,4,4,4,0
+Batman begins,2005,Christopher Nolan,26,3,4,4,4,1
+Benny e Joon,1993,Jeremiah S. Chechik,0,3,4,3,"3,5","0,5"
+Big fish - Le storie di una vita incredibile,2004,Tim Burton,15,3,4,4,4,1
+Billy Elliot,2000,Stephen Daldry,18,3,4,4,4,1
+Birdman,2014,Alejandro González Iñárritu,27,3,4,4,4,1
+Blue Jasmine,2013,Woody Allen,10,2,4,4,4,2
+Boyhood,2014,Richard Linklater,0,1,4,5,"4,5","3,5"
+Boys don't cry,1999,Kimberly Peirce,0,4,4,4,4,0
+Brooklyn,2015,John Crowley,-0.5,3,4,4,4,1
+Cafè society,2016,Woody Allen,10,3,3,3,3,0
+Calendar girls,2003,Nigel Cole,-0.1,3,3,3,3,0
+Candidato a sorpresa,2012,Jay Roach,33,3,3,3,3,0
+Canone inverso - Making love,2000,Ricky Tognazzi,0,4,4,0,2,2
+Caos calmo,2008,Antonello Grimaldi,0,2,3,3,3,1
+Carnage,2011,Roman Polański,20,3,4,3,"3,5","0,5"
+Carne tremula,1997,Pedro Almodóvar,0,4,4,4,4,0
+Carol,2015,Todd Haynes,0.2,4,4,4,4,0
+Casablanca,1946,Michael Curtiz,0,2,4,5,"4,5","2,5"
+Cast away,2000,Robert Zemeckis,22,4,4,4,4,0
+Cena tra amici,2012,"Matthieu Delaporte, Alexandre de La Patellière",0,5,4,3,"3,5","1,5"
+Charlie's Angels,2000,McG,0,2,3,3,3,1
+Che fine ha fatto Baby Jane?,1962,Robert Aldrich,0,4,4,4,4,0
+"Che pasticcio, Bridget Jones!",2004,Beeban Kidron,0,3,3,2,"2,5","0,5"
+Chi ha incastrato Roger Rabbit?,1988,Robert Zemeckis,22,3,4,4,4,1
+Chicago,2002,Rob Marshall,34,4,4,4,4,0
+Chiedimi se sono felice,2000,"Aldo Baglio, Giacomo Poretti, Giovanni Storti, Massimo Venier",0,3,3,0,"1,5","1,5"
+Chocolat,2000,Lasse Hallström,-0.2,3,4,3,"3,5","0,5"
+"Christiane F. - Noi, i ragazzi dello zoo di Berlino",1981,Uli Edel,0,4,4,0,2,2
+Cindirella man,2005,Ron Howard,0,9,4,4,4,5
+Closer,2004,Mike Nichols,6,2,4,3,"3,5","1,5"
+Cloud Atlas,2013,"Tom Tykwer, Lana Wachowski, Andy Wachowski",0,3,4,3,"3,5","0,5"
+Come d'incanto,2007,Kevin Lima,0,0,4,4,4,4
+Comic movie,2013,"Elizabeth Banks, Steven Brill, Steve Carr, Rusty Cundieff, James Duffy, Griffin Dunne, Peter Farrelly, Patrik Forsberg, James Gunn, Bob Odenkirk, Brett Ratner",0.2,3,2,1,"1,5","1,5"
+Contact,1997,Robert Zemeckis,22,2,4,3,"3,5","1,5"
+Cracks,2009,Jordan Scot,0.2,3,3,3,3,0
+Dallas Buyers Club,2013,Jean-Marc Vallée,-0.2,4,4,4,4,0
+Dark shadows,2012,Tim Burton,15,2,3,3,3,1
+Dead man walking - Condannato a morte,1995,Tim Robbins,0,3,4,4,4,1
+Diario di uno scandalo,2006,Richard Eyre,-0.3,4,4,4,4,0
+Dietro la maschera,1985,Peter Bogdanovich,0,9,4,4,4,5
+Dio esiste e vive a Bruxelles,2015,Jaco Van Dormael,-0.2,4,4,4,4,0
+Django Unchained,2013,Quentin Tarantino,8,4,4,4,4,0
+Dogville,2003,Lars von Trier,5,2,4,3,"3,5","1,5"
+Donne sull'orlo di una crisi di nervi,1988,Pedro Almodóvar,-0.2,4,4,4,4,0
+Donnie Darko,2001,Richard Kelly,-0.2,4,4,4,4,0
+È stato il figlio,2012,Daniele Ciprì,0.2,3,3,0,"1,5","1,5"
+E.T. l'extra-terrestre,1982,Steven Spielberg,16,3,4,5,"4,5","1,5"
+Edward mani di forbice,1991,Tim Burton,15,4,4,4,4,0
+El crimen perfecto,2005,Álex de la Iglesia,-0.2,4,4,4,4,0
+Elizabeth,1998,Shekhar Kapur,-0.4,4,4,4,4,0
+Elizabeth: the Golden Age,2007,Shekhar Kapur,0,4,4,3,"3,5","0,5"
+Elle,2016,Paul Verhoeven,-0.3,3,4,4,4,1
+Emmanuelle,1974,Just Jaeckin,0,0,2,2,2,2
+Erin Brockovich - Forte come la verità,2000,Steven Soderbergh,17,2,4,4,4,2
+Essere John Malkovich,1999,Spike Jonze,0.2,4,4,4,4,0
+Eyes Wide Shut,1999,Stanley Kubrick,12,1,4,4,4,3
+False verità,2005,Atom Egoyan,0,2,3,3,3,1
+Femme fatale,2002,Brian De Palma,28,1,3,3,3,2
+Fight club,1999,David Fincher,25,3,4,4,4,1
+Florence Foster Jenkins,2016,Stephen Frears,0.2,2,3,4,"3,5","1,5"
+Forrest Gump,1994,Robert Zemeckis,22,4,4,4,4,0
+Four rooms,1995,Quentin Tarantino,8,4,3,2,"2,5","1,5"
+Frankie e Ben - Una coppia a sorpresa,2001,Susan Seidelman,0,1,3,2,"2,5","1,5"
+Freaks,1932,Tod Browning,0,3,4,4,4,1
+Full Metal Jacket,1987,Stanley Kubrick,12,4,4,4,4,0
+Funny games,2007,Michael Haneke,-0.4,3,3,3,3,0
+Fuoco cammina con me,1992,David Lynch,-0.5,1,4,3,"3,5","2,5"
+Fur - Ritratto immaginario di Diane Arbus,2006,Steven Shainberg,0.2,3,3,2,"2,5","0,5"
+Gattaca - La porta dell'universo,1998,Andrew Niccol,0.1,4,4,4,4,0
+Giovane e bella,2013,François Ozon,24,3,3,3,3,0
+Giù al Nord,2008,Dany Boon,-0.2,3,4,0,2,1
+Gli uccelli,1963,Alfred Hitchcock,1,2,4,4,4,2
+Gone girl,2014,David Fincher,25,3,4,4,4,1
+"Goodbye, Lenin!",2003,Wolfgang Becker,-0.5,4,4,4,4,0
+Grand Budapest hotel,2014,Wes Anderson,4,3,4,4,4,1
+Gravity,2013,Alfonso Cuarón,0,1,4,4,4,3
+Grease - Brillantina,1978,Randal Kleiser,0,9,4,3,"3,5","5,5"
+Guida galattica per autostoppisti,2005,Garth Jennings,-0.4,2,4,3,"3,5","1,5"
+Hairspray - Grasso è bello,2007,Adam Shankman,0.5,3,3,4,"3,5","0,5"
+Hanna,2011,Joe Wright,0.3,2,3,3,3,1
+Harry Potter e i doni della morte - parte 1,2010,David Yates,32,4,4,4,4,0
+Harry Potter e i doni della morte - parte 2,2011,David Yates,32,3,4,4,4,1
+Harry Potter e il calice di fuoco,2005,Mike Newell,-0.4,4,4,4,4,0
+Harry Potter e il prigioniero di Azkaban,2004,Alfonso Cuarón,-0.4,4,4,4,4,0
+Harry Potter e il Principe Mezzosangue,2009,David Yates,32,3,4,4,4,1
+Harry Potter e l'Ordine della Fenice,2007,David Yates,32,2,4,3,"3,5","1,5"
+Harry Potter e la camera dei segreti,2002,Chris Columbus,30,3,4,4,4,1
+Harry Potter e la pietra filosofale,2001,Chris Columbus,30,3,4,4,4,1
+Harry ti presento Sally,1989,Rob Reiner,0,3,4,4,4,1
+Heartburn - Affari di cuore,1986,Mike Nichols,6,0,3,3,3,3
+Her - Lei,2014,Spike Jonze,0.2,3,4,4,4,1
+Hook - Capitan uncino,1991,Steven Spielberg,16,2,3,2,"2,5","0,5"
+Hugo Cabret,2011,Martin Scorsese,23,2,4,4,4,2
+Hunger Games,2013,Francis Lawrence,-0.6,0,4,4,4,4
+I cento passi,2000,Marco Tullio Giordana,-0.3,4,4,0,2,2
+I miserabili,1998,Bille August,0.3,4,3,3,3,1
+I ponti di Madison County,1995,Clint Eastwood,-0.1,3,4,4,4,1
+I ragazzi stanno bene,2010,Lisa Cholodenko,-0.4,3,4,4,4,1
+I segreti Brokeback Mountain,2006,Ang Lee,0.4,3,4,4,4,1
+I segreti di Osage County,2014,John Wells,0.3,4,4,3,"3,5","0,5"
+I soliti sospetti,1995,Bryan Singer,29,4,4,4,4,0
+I Tenenbaum,2002,Wes Anderson,4,3,4,4,4,1
+I tre moschettieri,2011,Paul W. S. Anderson,0,1,3,2,"2,5","1,5"
+I'm not there,2007,Todd Haynes,0.3,3,3,3,3,0
+Il 7 e l'8,2007,"Salvatore Ficarra, Valentino Picone, Giambattista Avellino",0.2,4,3,0,"1,5","2,5"
+Il bambino col pigiama a righe,2008,Mark Herman,0,4,4,3,"3,5","0,5"
+Il bell'Antonio,1960,Mauro Bolognini,-0.3,4,4,0,2,2
+Il cacciatore,1978,Michael Cimino,0,4,4,4,4,0
+Il caso Paradine,1947,Alfred Hitchcock,1,3,3,3,3,0
+Il caso Spotlight,2015,Tom McCarthy,0,2,4,4,4,2
+Il caso Thomas Crawford,2007,Gregory Hoblit,0,2,4,3,"3,5","1,5"
+Il cavaliere oscuro,2008,Christopher Nolan,26,3,4,4,4,1
+Il cavaliere oscuro - Il ritorno,2012,Christopher Nolan,26,2,4,4,4,2
+Il colore viola,1986,Steven Spielberg,16,4,4,3,"3,5","0,5"
+Il concerto,2009,Radu Mihăileanu,0.4,3,4,3,"3,5","0,5"
+Il curioso caso di Benjamin Button,2009,David Fincher,25,3,4,4,4,1
+Il delitto perfetto,1954,Alfred Hitchcock,1,5,4,4,4,1
+Il diario di Bridget Jones,2001,Sharon Maguire,-0.5,3,4,3,"3,5","0,5"
+Il diavolo veste Prada,2006,David Frankel,-0.2,3,3,3,3,0
+Il discorso del re,2010,Tom Hooper,14,4,4,4,4,0
+Il divo,2008,Paolo Sorrentino,7,3,4,4,4,1
+Il dubbio,2008,John Patrick Shanley,-0.4,3,4,3,"3,5","0,5"
+Il favoloso mondo di Amèlie,2002,Jean-Pierre Jeunet,-0.4,5,4,4,4,1
+Il giorno della civetta,1968,Damiano Damiani,0,2,4,0,2,0
+Il gladiatore,2000,Ridley Scott,0.2,5,4,4,4,1
+Il grande Gatsby,2013,Baz Luhrmann,0.4,3,4,3,"3,5","0,5"
+Il Grinch,2000,Ron Howard,0.2,3,3,3,3,0
+Il labirinto del fauno,2006,Guillermo del Toro,-0.5,4,4,4,4,0
+Il ladro di orchidee,2003,Spike Jonze,0,4,4,4,4,0
+Il laureato,1967,Mike Nichols,6,2,4,4,4,2
+Il matrimonio che vorrei,2012,David Frankel,0.4,3,3,3,3,0
+Il matrimonio del mio migliore amico,1997,P. J. Hogan,-0.5,3,3,3,3,0
+Il miglio verde,1999,Frank Darabont,0.4,4,4,3,"3,5","0,5"
+Il mistero di Sleepy Hollow,1999,Tim Burton,15,3,4,3,"3,5","0,5"
+Il padrino,1972,Francis Ford Coppola,0,4,5,5,5,1
+Il padrino - parte II,1975,Francis Ford Coppola,-0.1,5,4,5,"4,5","0,5"
+Il padrino - parte III,1990,Francis Ford Coppola,0,3,4,3,"3,5","0,5"
+Il papà di Giovanna,2008,Pupi Avati,0.2,4,4,0,2,2
+Il petroliere,2008,Paul Thomas Anderson,0.5,3,4,4,4,1
+Il pianista,2002,Roman Polański,20,4,4,4,4,0
+Il piccolo diavolo,1988,Roberto Benigni,21,3,3,0,"1,5","1,5"
+Il piccolo Nicolas e i suoi genitori,2009,Laurent Tirard,-0.5,3,4,3,"3,5","0,5"
+Il ponte per Terabithia,2007,Gábor Csupó,-0.6,9,4,4,4,5
+Il portaborse,1991,Daniele Luchetti,0,9,4,0,2,7
+Il pranzo di Babette,1987,Gabriel Axel,0,3,4,4,4,1
+Il rosso e il blu,2012,Giuseppe Piccioni,-0.5,2,3,0,"1,5","0,5"
+Il silenzio degli innocenti,1991,Jonathan Demme,0,5,4,4,4,1
+Il talento di Mr. Ripley,1999,Anthony Minghella,-0.3,4,4,4,4,0
+Il tempo delle mele 1,1980,Claude Pinoteau,-0.7,3,3,0,"1,5","1,5"
+Il tempo delle mele 2,1982,Claude Pinoteau,-0.1,3,3,0,"1,5","1,5"
+Il treno per Darjeeling,2007,Wes Anderson,4,3,4,3,"3,5","0,5"
+Il vento che accarezza l'erba,2006,Ken Loach,0.1,4,4,4,4,0
+In and out,1997,Frank Oz,0.1,3,3,3,3,0
+In darkness,2013,Agnieszka Holland,-0.4,3,4,4,4,1
+Inception,2010,Christopher Nolan,26,4,4,4,4,0
+Indagine su un cittadino al di sopra di ogni sospetto,1970,Elio Petri,0,3,4,4,4,1
+Innamorarsi,1984,Ulu Grosbard,0,1,3,3,3,2
+Into the Wild - Nelle terre selvagge,2007,Sean Penn,-0.5,2,4,4,4,2
+Into the Woods,2014,Rob Marshall,34,1,3,3,3,2
+Intrigo a Berlino,2006,Steven Soderbergh,17,2,3,2,"2,5","0,5"
+Intrigo internazionale,1959,Alfred Hitchcock,1,4,4,4,4,0
+Io ed Annie,1977,Woody Allen,10,3,4,4,4,1
+Io sono leggenda,2007,Francis Lawrence,0.5,1,4,3,"3,5","2,5"
+Io ti salverò,1945,Alfred Hitchcock,1,2,4,4,4,2
+J'ai tué mère,2009,Xavier Dolan,13,4,4,4,4,0
+Jackie Brown,1997,Quentin Tarantino,8,4,4,4,4,0
+Johnny English,2003,Peter Howitt,0.2,3,3,2,"2,5","0,5"
+Johnny English - La rinascita,2011,Oliver Parker,-0.1,2,3,2,"2,5","0,5"
+Johnny stecchino,1991,Roberto Benigni,21,3,4,3,"3,5","0,5"
+Jules et Jim,2002,François Truffaut,0.5,4,4,4,4,0
+Julie and Julia,2009,Nora Ephron,-0.3,3,3,4,"3,5","0,5"
+Jumanji,1995,Joe Johnston,0.4,3,3,3,3,0
+Juno,2008,Jason Reitman,0.3,3,4,4,4,1
+Jurassic Park,1993,Steven Spielberg,16,2,4,4,4,2
+Kill Bill - vol. 1,2003,Quentin Tarantino,8,5,4,4,4,1
+Kill Bill - vol. 2,2004,Quentin Tarantino,8,5,4,4,4,1
+Knight of cups,2015,Terrence Malick,9,3,3,3,3,0
+Koyaanisqatsi,1983,Godfrey Reggio,0,4,4,4,4,0
+Kramer contro Kramer,1979,Robert Benton,0,2,4,4,4,2
+L'amore non va in vacanza,2006,Nancy Meyers,-0.4,3,3,3,3,0
+L'appartamento spagnolo,2003,Cédric Klapisch,0.4,4,4,3,"3,5","0,5"
+L'attesa,2015,Piero Messina,0.5,5,3,3,3,2
+L'attimo fuggente,1989,Peter Weir,-0.3,4,4,4,4,0
+L'erba di Grace,2000,Nigel Cole,-0.5,3,3,3,3,0
+L'étrange couleur des toutes les larmes de ton corp,2013,"Hélène Cattet, Bruno Forzani",-0.3,3,3,3,3,0
+L'inarrivabile felicità,1941,Sidney Lanfield,0,1,3,0,"1,5","0,5"
+L'onda,2009,Dennis Gansel,-0.6,1,4,3,"3,5","2,5"
+L'ultimo bacio,2001,Gabriele Muccino,0.4,4,3,0,"1,5","2,5"
+L'ultimo imperatore,1987,Bernardo Bertolucci,2,5,4,4,4,1
+L'uomo bicentenario,2000,Chris Columbus,30,2,3,2,"2,5","0,5"
+L'uomo che fissa le capre,2009,Grant Heslov,0.1,3,3,3,3,0
+L'uomo che salì sulla collina e scese dalla montagna,1995,Christopher Monger,-0.3,3,3,3,3,0
+La chiave di Sara,2012,Gilles Paquet-Brenner,-0.1,3,4,3,"3,5","0,5"
+La città proibita,2007,Zhāng Yìmóu,0.1,3,3,3,3,0
+La corrispondenza,2016,Giuseppe Tornatore,11,2,3,0,"1,5","0,5"
+La custode di mia sorella,2009,Nick Cassavetes,0.3,3,4,3,"3,5","0,5"
+La dolce vita,1960,Federico Fellini,0,3,4,5,"4,5","1,5"
+La donna che visse due volte,1958,Alfred Hitchcock,1,4,4,4,4,0
+La donna del tenente francese,1981,Karel Reisz,0,1,3,4,"3,5","2,5"
+La donna perfetta,2004,Frank Oz,-0.4,2,3,2,"2,5","0,5"
+La fabbrica di cioccolato,2005,Tim Burton,15,3,3,4,"3,5","0,5"
+La famiglia omicidi,2005,Niall Johnson,-0.5,3,3,3,3,0
+La finestra di fronte,2003,Ferzan Özpetek,3,9,4,3,"3,5","5,5"
+La finestra sul cortile,1954,Alfred Hitchcock,1,4,4,4,4,0
+La grande bellezza,2013,Paolo Sorrentino,7,3,4,4,4,1
+La guerra dei mondi,2005,Steven Spielberg,16,0,3,3,3,3
+La leggenda dell pianista sull'oceano,1998,Giuseppe Tornatore,11,5,4,3,"3,5","1,5"
+La maschera di ferro,1998,Randall Wallace,0.1,3,3,3,3,0
+La maschera di Zorro,1998,Martin Campbell,0.4,2,3,4,"3,5","1,5"
+La meglio gioventù,2003,Marco Tullio Giordana,-0.4,3,4,4,4,1
+La migliore offerta,2013,Giuseppe Tornatore,11,3,4,3,"3,5","0,5"
+La morte ti fa bella,1992,Robert Zemeckis,22,3,3,3,3,0
+La papessa,2010,Sönke Wortmann,0,4,3,0,"1,5","2,5"
+La parola ai giurati,1957,Sidney Lumet,0,4,4,4,4,0
+La ragazza con l'orecchino di perla,2004,Peter Webber,0.1,3,3,3,3,0
+La scelta di Sophie,1982,Alan J. Pakula,0,4,4,3,"3,5","0,5"
+La stanza del figlio,2001,Nanni Moretti,0.3,3,4,4,4,1
+La teoria del tutto,2014,James Marsh,0.4,3,4,4,4,1
+La terra trema,1952,Luchino Visconti,0,2,4,4,4,2
+La tigre e il dragone,2001,Ang Lee,-0.4,2,4,4,4,2
+La tigre e la neve,2005,Roberto Benigni,21,2,4,2,3,1
+La vera storia di Jack lo squartatore,2001,"Allen Hughes, Albert Hughes",-0.2,1,3,3,3,2
+La vie en rose,2007,Olivier Dahan,-0.3,4,4,3,"3,5","0,5"
+La vita di Adèle,2013,Abdellatif Kechiche,-0.5,4,4,4,4,0
+La vita è bella,1997,Roberto Benigni,21,4,4,4,4,0
+Le ali della libertà,1994,Frank Darabont,-0.5,3,5,4,"4,5","1,5"
+Le avventure acquatiche di Steve Zissou,2005,Wes Anderson,4,2,4,3,"3,5","1,5"
+Le chiavi di casa,2004,Gianni Amelio,0,9,4,3,"3,5","5,5"
+"Le cronache di Narnia - Il leone, la strega e l'armadio",2005,Andrew Adamson,0,1,3,3,3,2
+Le fate ignoranti,2001,Ferzan Özpetek,3,4,4,0,2,2
+Le mele di Adamo,2005,Anders Thomas Jensen,0.5,4,4,3,"3,5","0,5"
+Le quattro piume,2002,Shekhar Kapur,0.1,3,3,3,3,0
+Le relazioni pericolose,1988,Stephen Frears,-0.5,3,4,4,4,1
+Le verità nascoste,2000,Robert Zemeckis,22,3,3,3,3,0
+Le vite degli altri,2007,Florian Henckel von Donnersmarck,-0.2,4,4,4,4,0
+Les amours imaginaires,2010,Xavier Dolan,13,3,4,3,"3,5","0,5"
+Les Misérables,2012,Tom Hooper,14,2,4,3,"3,5","1,5"
+Lezioni di piano,1993,Jane Campion,0,5,4,4,4,1
+Lincoln,2012,Steven Spielberg,16,4,4,4,4,0
+Lo chiamavano Jeeg Robot,2015,Gabriele Mainetti,0.4,4,4,0,2,2
+Love,2015,Gaspar Noé,-0.3,3,3,2,"2,5","0,5"
+Love actually,2003,Richard Curtis,-0.3,3,4,3,"3,5","0,5"
+Macbeth,2015,Justin Kurzel,0.3,5,3,4,"3,5","1,5"
+Mad Max: fury road,2015,George Miller,-0.1,1,4,4,4,3
+Mamma mia!,2008,Phyllida Lloyd,0.4,2,3,3,3,1
+Manhattan,1979,Woody Allen,10,9,4,4,4,5
+Manuale d'amore,2005,Giovanni Veronesi,0.4,3,3,0,"1,5","1,5"
+Maps to the Stars,2014,David Cronenberg,-0.4,3,3,3,3,0
+Mars Attacks!,1997,Tim Burton,15,2,3,3,3,1
+Mary Poppins,1964,Robert Stevenson,0,1,4,4,4,3
+Match point,2005,Woody Allen,10,3,4,4,4,1
+Matrix,1999,"Lana Wachowski, Andy Wachowski",-0.1,4,4,4,4,0
+Matrix reloaded,2003,"Lana Wachowski, Andy Wachowski",0.1,4,4,3,"3,5","0,5"
+Matrix revolutions,2003,"Lana Wachowski, Andy Wachowski",-0.4,3,3,3,3,0
+Melancholia,2011,Lars von Trier,5,3,4,4,4,1
+Memento,2001,Christopher Nolan,26,4,4,4,4,0
+Memorie di una geisha,2005,Rob Marshall,34,4,4,3,"3,5","0,5"
+Men in Black I,1997,Barry Sonnenfeld,0.2,4,4,4,4,0
+Men in Black II,2002,Barry Sonnenfeld,0,3,3,3,3,0
+Mi chiamo Sam,2001,Jessie Nelson,-0.5,5,4,2,3,2
+Mi presenti i tuoi?,2004,Jay Roach,33,3,3,3,3,0
+Midnight in Paris,2011,Woody Allen,10,2,4,4,4,2
+Millennium,2011,David Fincher,25,4,4,4,4,0
+Million Dollar Baby,2004,Clint Eastwood,0.2,9,4,4,4,5
+Mine vaganti,2010,Ferzan Özpetek,3,3,4,1,"2,5","0,5"
+Minority Report,2002,Steven Spielberg,16,9,4,4,4,5
+Misery non deve morire,1990,Rob Reiner,-0.3,4,4,4,4,0
+Mission,1986,Roland Joffé,-0.5,3,4,3,"3,5","0,5"
+Mission: Impossible,1996,Brian De Palma,28,9,4,3,"3,5","5,5"
+"Molto forte, incredibilmente vicino",2012,Stephen Daldry,18,3,3,3,3,0
+Mommy,2014,Xavier Dolan,13,5,4,4,4,1
+Moonrise Kingdom,2012,Wes Anderson,4,4,4,4,4,0
+Moulin Rouge!,2001,Baz Luhrmann,0.2,4,4,4,4,0
+Mr. Bean - L'ultima catastrofe,1997,Mel Smith,0.1,3,3,3,3,0
+Mr. Nobody,2009,Jaco Van Dormael,-0.1,4,4,3,"3,5","0,5"
+Mrs. Doubtfire - Mammo per sempre,1993,Chris Columbus,30,2,3,3,3,1
+My fair lady,1965,George Cukor,0,4,4,4,4,0
+Napoleon Dynamite,2004,Jared Hess,-0.1,3,3,3,3,0
+Nati stanchi,2002,Dominick Tambasco,0.4,3,3,0,"1,5","1,5"
+Nebraska,2013,Alexander Payne,35,3,4,4,4,1
+Nella casa,2012,François Ozon,24,4,4,4,4,0
+Nemiche amiche,1998,Chris Columbus,30,3,3,3,3,0
+Nodo alla gola,1948,Alfred Hitchcock,1,4,4,4,4,0
+Non è un paese per vecchi,2007,"Ethan Coen, Joel Coen",0,3,4,4,4,1
+Notorious - L'amante perduta,1946,Alfred Hitchcock,1,4,4,4,4,0
+Notting Hill,1999,Roger Michell,0,2,3,4,"3,5","1,5"
+Novecento,1976,Bernardo Bertolucci,2,4,4,3,"3,5","0,5"
+Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,11,4,4,3,"3,5","0,5"
+Nymphomaniac - vol. I,2013,Lars von Trier,5,5,3,3,3,2
+Nymphomaniac - vol. II,2014,Lars von Trier,5,3,3,3,3,0
+Ocean's Eleven,2001,Steven Soderbergh,17,4,4,3,"3,5","0,5"
+Ocean's Thirteen,2007,Steven Soderbergh,17,3,3,3,3,0
+Ocean's Twelve,2004,Steven Soderbergh,17,4,3,3,3,1
+Ogni cosa è illuminata,2005,Liev Screiber,0.1,3,4,3,"3,5","0,5"
+Oliver Twist,2005,Roman Polański,20,4,3,3,3,1
+One day,2011,Lone Scherfig,-0.3,3,3,3,3,0
+Orgoglio e pregiudizio,2005,Joe Wright,0.5,9,4,4,4,5
+Orlando,1992,Sally Potter,0,5,4,3,"3,5","1,5"
+Pane e tulipani,2000,Silvio Soldini,0.4,9,4,0,2,7
+Panic room,2002,David Fincher,25,3,3,3,3,0
+Paradiso + Inferno,2006,Neil Armfield,-0.7,2,4,3,"3,5","1,5"
+Paradiso amaro,2011,Alexander Payne,35,1,4,4,4,3
+Parenti serpenti,1993,Mario Monicelli,0.3,3,4,0,2,1
+Piccoli gangsters,1976,Alan Parker,0,9,3,4,"3,5","5,5"
+Piccoli omicidi tra amici,1994,Danny Boyle,31,3,4,3,"3,5","0,5"
+Piccolo Buddha,1993,Bernardo Bertolucci,2,3,3,3,3,0
+Pinocchio,2002,Roberto Benigni,21,2,2,1,"1,5","0,5"
+Pirati dei Caraibi - La maledizione del forziere fantasma,2006,Gore Verbinski,0.5,3,4,3,"3,5","0,5"
+Pirati dei Caraibi - La maledizione della prima luna,2003,Gore Verbinski,0.5,3,4,4,4,1
+Pirati dei Caraibi - Oltre i confini del mare,2011,Rob Marshall,34,2,3,2,"2,5","0,5"
+Piume di struzzo,1996,Mike Nichols,6,3,3,3,3,0
+Pollo alle prugne,2011,"Marjane Satrapi, Vincent Paronnaud",-0.5,3,4,3,"3,5","0,5"
+Pomodori verdi fritti alla fermata del treno,1991,Jon Avnet,0,3,4,3,"3,5","0,5"
+Precious,2009,Lee Daniels,-0.4,4,4,4,4,0
+Prime,2005,Ben Younger,0.3,3,3,3,3,0
+Profumo - Storia di un assassino,2006,Tom Tykwer,0.3,4,4,3,"3,5","0,5"
+Prometheus,2012,Ridley Scott,0,9,3,3,3,6
+Prova a prendermi,2002,Steven Spielberg,16,4,4,4,4,0
+Psycho,1960,Alfred Hitchcock,1,4,4,5,"4,5","0,5"
+Pulp Fiction,1994,Quentin Tarantino,8,5,4,5,"4,5","0,5"
+Qualcuno volò sul nido del cuculo,1975,Miloš Forman,-0.3,5,4,4,4,1
+Quattro matrimoni e un funerale,1994,Mike Newell,0.2,3,4,4,4,1
+Quella casa nel bosco,2012,Drew Goddard,-0.6,1,3,4,"3,5","2,5"
+Rachel sta per sposarsi,2008,Jonathan Demme,0.1,3,3,4,"3,5","0,5"
+Ragazze interrotte,1999,"James Mangold, Jonathan Kahn",0.1,4,4,3,"3,5","0,5"
+Rebecca - La prima moglie,1940,Alfred Hitchcock,1,3,4,4,4,1
+Red eye,2005,Wes Craven,0.5,3,3,3,3,0
+Revenant - Redivivo,2015,Alejandro González Iñárritu,27,2,4,4,4,2
+Revolutionary road,2008,Sam Mendes,19,3,4,3,"3,5","0,5"
+Risvegli,1990,Penny Marshall,-0.5,3,4,3,"3,5","0,5"
+Ritorno a Cold Mountain,2004,Anthony Minghella,0.2,4,4,3,"3,5","0,5"
+Room,2015,Lenny Abrahamson,-0.4,3,4,4,4,1
+Salvate il soldato Ryan,1998,Steven Spielberg,16,3,4,4,4,1
+Saranno famosi,1980,Alan Parker,0,2,3,4,"3,5","1,5"
+Saturno contro,2007,Ferzan Özpetek,3,3,3,0,"1,5","1,5"
+Saw - L'enigmista,2004,James Wan,0.5,3,4,3,"3,5","0,5"
+Saw II - La soluzione dell'enigma,2005,Darren Lynn Bousman,0,4,3,2,"2,5","1,5"
+Saw III - L'enigma senza fine,2006,Darren Lynn Bousman,0.3,3,3,2,"2,5","0,5"
+Saw IV - Il gioco continua,2007,Darren Lynn Bousman,0.2,2,3,2,"2,5","0,5"
+Schindler's list - La lista di Schindler,1993,Steven Spielberg,16,4,4,4,4,0
+Scoop,2006,Woody Allen,10,2,3,3,3,1
+Se mi lasci ti cancello,2004,Michel Gondry,-0.2,4,4,4,4,0
+Secret window,2004,David Koepp,-0.2,2,3,3,3,1
+Sette psicopatici,2012,Martin McDonagh,-0.2,4,4,4,4,0
+Seven,1995,David Fincher,25,2,4,4,4,2
+Shame,2012,Steve McQueen,0.5,2,4,4,4,2
+"She-Devil - Lei, il diavolo",1989,Susan Seidelman,-0.4,2,3,2,"2,5","0,5"
+Shuttrer Island,2010,Martin Scorsese,23,4,4,3,"3,5","0,5"
+Silkwood,1983,Mike Nichols,6,3,4,4,4,1
+Skyfall,2012,Sam Mendes,19,4,4,4,4,0
+Sleepers,1996,Barry Levinson,0,4,4,3,"3,5","0,5"
+Spectre,2015,Sam Mendes,19,1,3,3,3,2
+Spiderman,2002,Sam Raimi,-0.6,3,4,4,4,1
+Steve Jobs,2015,Danny Boyle,31,0,4,4,4,4
+Still Alice,2014,"Richard Glatzer, Wash Westmoreland",-0.2,4,4,4,4,0
+Stoker,2013,Park Chan-wook,0.5,4,3,3,3,1
+Submarine,2011,Richard Ayoade,0.5,3,4,4,4,1
+Superman returns,2006,Bryan Singer,29,9,3,3,3,6
+Sweeney Todd - Il diabolico barbiere di Fleet Street,2007,Tim Burton,15,3,4,4,4,1
+Taken - La vendetta,2012,Olivier Megaton,0.3,0,3,2,"2,5","2,5"
+Tallulah,2016,Sian Heder,0.4,2,4,4,4,2
+Tess,1979,Roman Polański,20,9,4,4,4,5
+The Artist,2011,Michel Hazanavicius,-0.2,5,4,4,4,1
+The Aviator,2004,Martin Scorsese,23,4,4,4,4,0
+The Black Dahlia,2006,Brian De Palma,28,3,3,2,"2,5","0,5"
+The butterfly effect,2004,"Eric Bress, J. Mackye Gruber",-0.3,3,4,2,3,0
+The Danish girl,2015,Tom Hooper,14,3,3,3,3,0
+The dreamers,2003,Bernardo Bertolucci,2,5,4,3,"3,5","1,5"
+The elephant man,1980,David Lynch,0,5,4,4,4,1
+The Hateful Eight,2015,Quentin Tarantino,8,3,4,4,4,1
+The Help,2012,Tate Taylor,-0.3,3,4,4,4,1
+The Hours,2002,Stephen Daldry,18,5,4,4,4,1
+The human centipede (first sequence),2010,Tom Six,-0.1,0,2,3,"2,5","2,5"
+The Iron Lady,2011,Phyllida Lloyd,0.5,5,3,3,3,2
+The lady in the van,2015,Nicholas Hytner,0.3,2,3,4,"3,5","1,5"
+The Lobster,2015,Yorgos Lanthimos,0.1,4,4,4,4,0
+The Mask - Da zero a mito,1994,Chuck Russell,0.2,5,3,3,3,2
+The millionaire,2008,Danny Boyle,31,9,4,4,4,5
+The Others,2001,Alejandro Amenábar,-0.3,4,4,4,4,0
+The Prestige,2006,Christopher Nolan,26,3,4,4,4,1
+The Reader - A voce alta,2009,Stephen Daldry,18,4,4,3,"3,5","0,5"
+The Rocky horror picture show,1975,Jim Sharman,0,4,4,3,"3,5","0,5"
+The Shining,1980,Stanley Kubrick,12,5,4,4,4,1
+The social network,2010,David Fincher,25,1,4,4,4,3
+The Terminal,2004,Steven Spielberg,16,3,4,3,"3,5","0,5"
+The Tree of Life,2011,Terrence Malick,9,5,3,4,"3,5","1,5"
+The Truman show,1998,Peter Weir,-0.2,4,4,4,4,0
+The Untouchables - Gli intoccabili,1987,Brian De Palma,28,3,4,4,4,1
+The wolf of Wall street,2014,Martin Scorsese,23,2,4,4,4,2
+The zero theorem - Tutto è vanità,2013,Terry Gilliam,0.5,1,3,3,3,2
+Thirteen - 13 anni,2003,Catherine Hardwicke,0,0,3,4,"3,5","3,5"
+This must be the place,2011,Paolo Sorrentino,7,3,3,3,3,0
+Ti presento i miei,2001,Jay Roach,33,3,3,3,3,0
+Titanic,1997,James Cameron,-0.1,3,4,4,4,1
+To Rome with love,2012,Woody Allen,10,0,3,3,3,3
+To the wonder,2012,Terrence Malick,9,3,3,3,3,0
+Tomboy,2011,Céline Sciamma,0.2,4,4,4,4,0
+Travolti da un insolito destino nell'azzuro mare d'agosto,1974,Lina Wertmüller,0,3,4,3,"3,5","0,5"
+Tropic thunder,2008,Ben Stiller,0,9,3,4,"3,5","5,5"
+Trumbo,2015,Jay Roach,33,2,4,3,"3,5","1,5"
+Tutti pazzi per Mary,1998,"Peter Farrelly, Bobby Farrelly",-0.7,3,4,3,"3,5","0,5"
+Two mothers,2013,Anne Fontaine,0.3,3,3,2,"2,5","0,5"
+Un pesce di nome Wanda,1988,"John Cleese, Charles Crichton",0,3,4,4,4,1
+Una commedia sexy in una notte di mezza estate,1982,Woody Allen,10,0,3,3,3,3
+Una settimana da Dio,2003,Tom Shadyac,-0.2,2,4,3,"3,5","1,5"
+Une nouvelle amie,2014,François Ozon,24,2,3,3,3,1
+Uomini che odiano le donne,2009,Niels Arden Oplev,0.5,4,4,4,4,0
+V per Vendetta,2005,James McTeigue,-0.3,2,4,3,"3,5","1,5"
+Vacanze romane,1953,William Wyler,0,3,4,4,4,1
+Velluto blu,1986,David Lynch,0,2,4,4,4,2
+Vicky Cristina Barcelona,2008,Woody Allen,10,2,4,3,"3,5","1,5"
+Victor Victoria,1982,Blake Edwards,0.2,3,3,4,"3,5","0,5"
+Visitors,2014,Godfrey Reggio,-0.1,3,3,3,3,0
+Vita di Pi,2012,Ang Lee,0.1,1,4,4,4,3
+Viva la libertà,2013,Roberto Andò,0.1,3,3,3,3,0
+Will Hunting - Genio ribelle,1997,Gus Van Sant,-0.2,1,4,4,4,3
+Wolf - La belva è fuori,1994,Mike Nichols,6,2,3,3,3,1
+Wuthering heights,1992,Peter Kosminsky,0,1,3,2,"2,5","1,5"
+X-Men,2000,Bryan Singer,29,3,4,4,4,1
+X-Men 2,2003,Bryan Singer,29,2,4,4,4,2
+X-Men le origini - Wolverine,2009,Gavin Hood,0.5,2,3,3,3,1
+Youth - La giovinezza,2015,Paolo Sorrentino,7,3,4,3,"3,5","0,5"
