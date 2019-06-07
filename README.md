@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/typerror/processing/master/processing.jpg" alt="Processing logo" width="200">
+  <img src="https://raw.githubusercontent.com/andreazangheri/processing/master/processing.jpg" alt="Processing logo" width="200">
   <br>
   Processing
   <br>
